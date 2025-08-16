@@ -94,3 +94,8 @@ This project demonstrates the complete data analysis pipeline:
 
 The analysis can support **buyers**, **real estate investors**, and **agencies** in understanding Melbourne’s housing market.
 
+<img width="1421" height="787" alt="2" src="https://github.com/user-attachments/assets/dfd37db6-a45f-4fff-909b-81d875ee8397" />
+
+<img width="1421" height="787" alt="1" src="https://github.com/user-attachments/assets/14a704f7-e87b-41ed-a0a7-fdaa25608c55" />
+
+
